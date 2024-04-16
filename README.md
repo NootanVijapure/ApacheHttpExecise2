@@ -23,7 +23,6 @@ To create a Java application that fetches and displays data about trending GitHu
 
 1.  **Project Setup:**
     
-    *   Set up a new Java project in your preferred development environment (e.g., IntelliJ IDEA, Eclipse).
         
     *   Add the Apache HttpClient library and JSON library (e.g., org.json) to your project dependencies.
         
