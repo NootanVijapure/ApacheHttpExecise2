@@ -10,12 +10,10 @@ To create a Java application that fetches and displays data about trending GitHu
     
 2.  **JSON Parsing:** Parse the JSON response from the GitHub API to extract relevant repository information.
     
-3.  **User Input:** Allow the user to specify the programming language for which they want to fetch trending repositories.
+3.  **Error Handling:** Implement error handling to handle cases such as invalid user input, network errors, or API response errors.
     
-4.  **Error Handling:** Implement error handling to handle cases such as invalid user input, network errors, or API response errors.
-    
-5.  **Structured Output:** Display the extracted information about trending repositories in a structured and readable format.
-6.  **Url should be  something like this:** String apiUrl = "https://api.github.com/search/repositories?q=language:" + language + "&sort=stars&order=desc";
+4.  **Structured Output:** Display the extracted information about trending repositories in a structured and readable format.
+5.  **Url should be  something like this:** String apiUrl = "https://api.github.com/search/repositories?q=language:" + language + "&sort=stars&order=desc";
 
     
 
