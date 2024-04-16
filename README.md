@@ -1,4 +1,4 @@
-### rending GitHub Repositories Program Guidelines
+### Trending GitHub Repositories Program Guidelines
 
 #### Objective:
 
